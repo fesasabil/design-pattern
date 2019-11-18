@@ -1,10 +1,11 @@
 # Template Method
-    pola desain perilaku yang mendefinisikan kerangka suatu algoritma dalam superclass tetapi memungkinkan subclass menimpa langkah-langkah spesifik dari algoritma tanpa mengubah strukturnya.
+pola design behavioral yang mendefinisikan kerangka suatu algoritma dalam superclass tetapi memungkinkan subclass menimpa langkah-langkah spesifik dari algoritma tanpa mengubah strukturnya.
 
 # Masalah
-    Bayangkan bahwa Anda sedang membuat aplikasi penambangan data yang menganalisis dokumen perusahaan. Pengguna memberi dokumen aplikasi dalam berbagai format (PDF, DOC, CSV), dan mencoba mengekstrak data yang bermakna dari dokumen ini dalam format yang seragam.
 
-    Pada titik tertentu, Anda memperhatikan bahwa ketiga kelas memiliki banyak kode yang serupa. Sementara kode untuk menangani berbagai format data sama sekali berbeda di semua kelas, kode untuk pemrosesan dan analisis data hampir identik. Bukankah lebih baik untuk menghilangkan duplikasi kode, membiarkan struktur algoritma tetap utuh?
+Bayangkan bahwa Anda sedang membuat aplikasi penambangan data yang menganalisis dokumen perusahaan. Pengguna memberi dokumen aplikasi dalam berbagai format (PDF, DOC, CSV), dan mencoba mengekstrak data yang bermakna dari dokumen ini dalam format yang seragam.
+
+Pada titik tertentu, Anda memperhatikan bahwa ketiga kelas memiliki banyak kode yang serupa. Sementara kode untuk menangani berbagai format data sama sekali berbeda di semua kelas, kode untuk pemrosesan dan analisis data hampir identik. Bukankah lebih baik untuk menghilangkan duplikasi kode, membiarkan struktur algoritma tetap utuh?
 
 # Solution
 
