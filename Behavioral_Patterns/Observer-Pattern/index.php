@@ -37,14 +37,14 @@ class PatternSubject extends AbstractSubject {
     private $observers = array();
     function __construct() {
     }
-    function attach(AbstractObserver $observer_in) {
+    function attach(AbstractObserver $observer) {
       //could also use array_push($this->observers, $observer_in);
-      $this->observers[] = $observer_in;
+      $this->observers[] = $observer;
     }
-    function detach(AbstractObserver $observer_in) {
+    function detach(AbstractObserver $observer) {
       //$key = array_search($observer_in, $this->observers);
       foreach($this->observers as $okey => $oval) {
-        if ($oval == $observer_in) { 
+        if ($oval == $observer) { 
           unset($this->observers[$okey]);
         }
       }
