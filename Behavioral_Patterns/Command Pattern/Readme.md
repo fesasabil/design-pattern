@@ -1,6 +1,6 @@
 # Command Pattern
 
-Pola design pattern yang mengubah permintaan menjadi objek yang berisi semua informasi tentang permintaan. Transformasi ini memungkinkan Anda membuat parameter dengan berbagai permintaan, menunda atau mengantri eksekusi permintaan, dan mendukung operasi yang tidak dapat dibatalkan.
+Pola design behavioral yang mengubah permintaan menjadi objek yang berisi semua informasi tentang permintaan. Transformasi ini memungkinkan Anda membuat parameter dengan berbagai permintaan, menunda atau mengantri eksekusi permintaan, dan mendukung operasi yang tidak dapat dibatalkan.
 
 
 <!-- # Problem

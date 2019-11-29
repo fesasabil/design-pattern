@@ -1,6 +1,6 @@
 # Mediator
 
-Pola desaign pattern yang memungkinkan kita untuk mengekspos antarmuka terpadu melalui apapun dimana berbagai bagian dari suatu sistem dapat berkomunikasi. Jika tampaknya suatu sistem memiliki terlalu banyak hubungan langsung antar komponen, mungkin sudah saatnya untuk memiliki titik kontrol pusat yang dikomunikasikan oleh komponen. Pola Mediator mempromosikan kopling longgar dengan memastikan bahwa alih-alih komponen merujuk satu sama lain secara eksplisit, interaksi mereka ditangani melalui titik pusat ini. Ini dapat membantu kami memisahkan sistem dan meningkatkan potensi reusabilitas komponen.
+Pola desaign behavioral yang memungkinkan kita untuk mengekspos antarmuka terpadu melalui apapun dimana berbagai bagian dari suatu sistem dapat berkomunikasi. Jika tampaknya suatu sistem memiliki terlalu banyak hubungan langsung antar komponen, mungkin sudah saatnya untuk memiliki titik kontrol pusat yang dikomunikasikan oleh komponen. Pola Mediator mempromosikan kopling longgar dengan memastikan bahwa alih-alih komponen merujuk satu sama lain secara eksplisit, interaksi mereka ditangani melalui titik pusat ini. Ini dapat membantu kami memisahkan sistem dan meningkatkan potensi reusabilitas komponen.
 
 
 # Real-Word-Analogy

@@ -1,6 +1,6 @@
 # Observer Pattern
 
-pola design pattern yang memungkinkan Anda menentukan mekanisme berlangganan untuk memberi tahu beberapa objek tentang peristiwa apa pun yang terjadi pada objek yang mereka amati.
+pola design behavioral yang memungkinkan Anda menentukan mekanisme berlangganan untuk memberi tahu beberapa objek tentang peristiwa apa pun yang terjadi pada objek yang mereka amati.
 
 
 # Real-World Analogy

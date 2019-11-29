@@ -1,6 +1,6 @@
 # Interator
 
-pola desaign pattern yang memungkinkan Anda menelusuri elemen collection tanpa memaparkan representasi yang mendasarinya (list, stack, tree, dll.).
+pola desaign behavioral yang memungkinkan Anda menelusuri elemen collection tanpa memaparkan representasi yang mendasarinya (list, stack, tree, dll.).
 
 Collaction adalah salah satu tipe data yang paling banyak digunakan dalam pemrograman. Meskipun demikian, koleksi hanyalah sebuah wadah untuk sekelompok objek.
 

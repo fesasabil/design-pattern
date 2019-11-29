@@ -1,6 +1,6 @@
 # Memento
 
-pola design pattern yang memungkinkan Anda menyimpan dan mengembalikan keadaan objek sebelumnya tanpa mengungkapkan detail implementasinya.
+pola design behavioral yang memungkinkan Anda menyimpan dan mengembalikan keadaan objek sebelumnya tanpa mengungkapkan detail implementasinya.
 
 
 # Real-Word-Analogy

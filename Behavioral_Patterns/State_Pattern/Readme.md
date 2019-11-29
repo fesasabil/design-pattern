@@ -1,6 +1,6 @@
 # State Pattern
 
-pola design pattern yang memungkinkan objek mengubah perilakunya ketika keadaan internalnya berubah. Tampaknya seolah-olah objek mengubah kelasnya.
+pola design behavioral yang memungkinkan objek mengubah perilakunya ketika keadaan internalnya berubah. Tampaknya seolah-olah objek mengubah kelasnya.
 
 Pola Status memungkinkan objek mengubah perilakunya saat kondisi internal berubah. Pola ini mirip dengan pola strategi, tetapi dalam hal ini diputuskan secara internal bagaimana perilaku objek. Ini sangat membantu jika kondisi kompleks menentukan bagaimana objek harus berperilaku. Status baru dapat ditambahkan secara independen dari status yang ada.
 
